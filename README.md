@@ -21,9 +21,6 @@ There are plenty of great resources to learn [HTML](https://developer.mozilla.or
 
 This cheat sheet doesn't cover JavaScript. Consider [this tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript), or this [other one](http://javascript.info/).
 
-## License
-
-MIT.
 
 ## Contributions
 
